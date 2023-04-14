@@ -8,15 +8,21 @@
 #SBATCH --tasks-per-node=1
 #SBATCH --cpus-per-task=1
 
+#SBATCH --output=slurm-unroll.out
+#SBATCH --error=slurm-unroll.err
+
+
 #SBATCH --account=m22oc-s2312252
 
 module load intel-compilers-19
+module load perf
 
 # Switch to current working directory
 cd C
 
 # Run the parallel program
-./MD
+perf stat -e cycles,instructions,cache-misses,branches,branch-misses,page-faults ./MD
+# ./MD
 
 
 

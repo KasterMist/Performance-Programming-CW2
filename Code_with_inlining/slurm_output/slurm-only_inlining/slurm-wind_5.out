@@ -1,6 +1,3 @@
-Loading intel-compilers-19/19.0.0.117
-  Loading requirement: intel-license gcc/8.2.0 intel-cc-19/19.0.0.117
-    intel-fc-19/19.0.0.117
 timestep 1
 collisions 0
 timestep 2
@@ -201,7 +198,7 @@ timestep 99
 collisions 0
 timestep 100
 collisions 0
-100 timesteps took 13.499138 seconds
+100 timesteps took 14.627658 seconds
 collisions 0
 timestep 1
 collisions 0
@@ -403,7 +400,7 @@ timestep 99
 collisions 8655
 timestep 100
 collisions 8658
-100 timesteps took 13.599854 seconds
+100 timesteps took 14.559965 seconds
 collisions 8661
 timestep 1
 collisions 8661
@@ -605,7 +602,7 @@ timestep 99
 collisions 41602
 timestep 100
 collisions 42201
-100 timesteps took 13.545641 seconds
+100 timesteps took 14.587164 seconds
 collisions 42843
 timestep 1
 collisions 42843
@@ -807,7 +804,7 @@ timestep 99
 collisions 54721
 timestep 100
 collisions 54796
-100 timesteps took 13.447682 seconds
+100 timesteps took 14.529966 seconds
 collisions 54871
 timestep 1
 collisions 54871
@@ -1009,6 +1006,6 @@ timestep 99
 collisions 68002
 timestep 100
 collisions 68404
-100 timesteps took 13.589041 seconds
+100 timesteps took 14.531889 seconds
 collisions 68827
-500 timesteps took 67.827606 seconds
+500 timesteps took 72.924171 seconds
