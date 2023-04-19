@@ -1,0 +1,1 @@
+These folders show different types of optimizations. The optimization sequence is based on the report. The final chosen optimization is in the "Code_final" folder.

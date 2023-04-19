@@ -8,8 +8,8 @@
 #SBATCH --tasks-per-node=1
 #SBATCH --cpus-per-task=1
 
-#SBATCH --output=slurm-vis_norms_forces_5.out
-#SBATCH --error=slurm-vis_norms_forces.err
+#SBATCH --output=slurm-norms_5.out
+#SBATCH --error=slurm-norms.err
 
 
 #SBATCH --account=m22oc-s2312252

@@ -1,0 +1,19 @@
+Loading intel-compilers-19/19.0.0.117
+  Loading requirement: intel-license gcc/8.2.0 intel-cc-19/19.0.0.117
+    intel-fc-19/19.0.0.117
+
+ Performance counter stats for './MD':
+
+   141,708,715,451      cycles                                                      
+   218,850,074,547      instructions              #    1.54  insn per cycle         
+     4,123,995,166      cache-misses                                                
+    16,474,109,880      branches                                                    
+        10,043,884      branch-misses             #    0.06% of all branches        
+               976      page-faults                                                 
+
+      47.237651267 seconds time elapsed
+
+      46.980733000 seconds user
+       0.068811000 seconds sys
+
+

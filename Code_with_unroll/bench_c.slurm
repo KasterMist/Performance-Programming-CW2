@@ -8,8 +8,8 @@
 #SBATCH --tasks-per-node=1
 #SBATCH --cpus-per-task=1
 
-#SBATCH --output=slurm-original_5.out
-#SBATCH --error=slurm-original.err
+#SBATCH --output=slurm-delete_Ndim_5.out
+#SBATCH --error=slurm-delete_Ndim.err
 
 
 #SBATCH --account=m22oc-s2312252

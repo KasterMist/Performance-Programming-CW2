@@ -1,0 +1,83 @@
+Loading intel-compilers-19/19.0.0.117
+  Loading requirement: intel-license gcc/8.2.0 intel-cc-19/19.0.0.117
+    intel-fc-19/19.0.0.117
+
+ Performance counter stats for './MD':
+
+   174,500,946,089      cycles                                                      
+   290,423,097,135      instructions              #    1.66  insn per cycle         
+     4,147,605,713      cache-misses                                                
+    40,003,939,014      branches                                                    
+         6,105,483      branch-misses             #    0.02% of all branches        
+               703      page-faults                                                 
+
+      58.204622635 seconds time elapsed
+
+      57.953646000 seconds user
+       0.076808000 seconds sys
+
+
+
+ Performance counter stats for './MD':
+
+   177,834,821,903      cycles                                                      
+   290,400,886,758      instructions              #    1.63  insn per cycle         
+     4,092,260,135      cache-misses                                                
+    40,000,074,041      branches                                                    
+         6,042,133      branch-misses             #    0.02% of all branches        
+               395      page-faults                                                 
+
+      53.968486419 seconds time elapsed
+
+      53.673462000 seconds user
+       0.069755000 seconds sys
+
+
+
+ Performance counter stats for './MD':
+
+   179,302,567,002      cycles                                                      
+   290,433,656,023      instructions              #    1.62  insn per cycle         
+     4,077,867,273      cache-misses                                                
+    40,005,911,031      branches                                                    
+         6,172,403      branch-misses             #    0.02% of all branches        
+               695      page-faults                                                 
+
+      59.701628819 seconds time elapsed
+
+      59.458036000 seconds user
+       0.072764000 seconds sys
+
+
+
+ Performance counter stats for './MD':
+
+   180,549,889,193      cycles                                                      
+   290,411,669,304      instructions              #    1.61  insn per cycle         
+     4,079,584,594      cache-misses                                                
+    40,001,968,466      branches                                                    
+         6,092,288      branch-misses             #    0.02% of all branches        
+             1,052      page-faults                                                 
+
+      54.799709504 seconds time elapsed
+
+      54.529101000 seconds user
+       0.067675000 seconds sys
+
+
+
+ Performance counter stats for './MD':
+
+   177,191,381,026      cycles                                                      
+   290,429,304,571      instructions              #    1.64  insn per cycle         
+     4,096,840,978      cache-misses                                                
+    40,005,064,823      branches                                                    
+         6,130,692      branch-misses             #    0.02% of all branches        
+               806      page-faults                                                 
+
+      59.017455416 seconds time elapsed
+
+      58.773395000 seconds user
+       0.086727000 seconds sys
+
+
